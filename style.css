@@ -19,6 +19,10 @@ h2 {
   margin-bottom: 10px;
   font-weight: 700;
 }
+a{
+  color: #ffffff;
+  text-decoration: none;
+}
 .container {
   width: 50%;
   margin: 15px auto;
